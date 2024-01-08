@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 62a0d504ca2fbd14593e13f44cc7176b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mematosiestonoseexporta_0
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 3110
+        width: 6126
+        height: 934
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db28f9cea0e70dd4eabadd2fd0717c57
+      internalID: 333875848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mematosiestonoseexporta_15
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1154
+        width: 6061
+        height: 1604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e37d6872b2d4489b2125e99b62c0d
+      internalID: -795700219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mematosiestonoseexporta_20
+      rect:
+        serializedVersion: 2
+        x: 6834
+        y: 679
+        width: 998
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486c4e00856cd304a8ff92c0780eac8f
+      internalID: -2071182215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mematosiestonoseexporta_28
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 403
+        width: 798
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b602befda3c7db64e806914fb45833c9
+      internalID: -1235363432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mematosiestonoseexporta_29
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 380
+        width: 501
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0bd692c9919245b7f5bb101050251
+      internalID: -192940441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mematosiestonoseexporta_30
+      rect:
+        serializedVersion: 2
+        x: 5269
+        y: 266
+        width: 787
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e5723ae3203949b3d70afe6260ccd
+      internalID: 1522609933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mematosiestonoseexporta_31
+      rect:
+        serializedVersion: 2
+        x: 6346
+        y: 0
+        width: 1012
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb1143352cf7da429a357a326352c71
+      internalID: -1823802364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 12dabe085701fef40b1d14c938cf2d03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mematosiestonoseexporta_0: 333875848
+      mematosiestonoseexporta_1: 159285401
+      mematosiestonoseexporta_10: 90950191
+      mematosiestonoseexporta_11: 1609050478
+      mematosiestonoseexporta_12: -348057429
+      mematosiestonoseexporta_13: -604090103
+      mematosiestonoseexporta_14: 1825649433
+      mematosiestonoseexporta_15: -795700219
+      mematosiestonoseexporta_16: -997145772
+      mematosiestonoseexporta_17: 329772566
+      mematosiestonoseexporta_18: 1197921622
+      mematosiestonoseexporta_19: -2243006
+      mematosiestonoseexporta_2: -201206634
+      mematosiestonoseexporta_20: -2071182215
+      mematosiestonoseexporta_21: -208354360
+      mematosiestonoseexporta_22: 1684875976
+      mematosiestonoseexporta_23: -1084777410
+      mematosiestonoseexporta_24: 594360614
+      mematosiestonoseexporta_25: 63387538
+      mematosiestonoseexporta_26: -143957414
+      mematosiestonoseexporta_27: -102662959
+      mematosiestonoseexporta_28: -1235363432
+      mematosiestonoseexporta_29: -192940441
+      mematosiestonoseexporta_3: 136293020
+      mematosiestonoseexporta_30: 1522609933
+      mematosiestonoseexporta_31: -1823802364
+      mematosiestonoseexporta_32: 20971119
+      mematosiestonoseexporta_4: -947880465
+      mematosiestonoseexporta_5: 551922428
+      mematosiestonoseexporta_6: -237448957
+      mematosiestonoseexporta_7: -730389289
+      mematosiestonoseexporta_8: -839556605
+      mematosiestonoseexporta_9: 829769247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 142c0a44ad7891d4495b238e73fb0e2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DGUARDIAN_TODASLASLETRAS_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1585
+        width: 1563
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c911803af3dacb342ad2743ccf7241c2
+      internalID: 491080173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DGUARDIAN_TODASLASLETRAS_4
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2773
+        width: 4977
+        height: 1131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2bb5ecfa77114b8d638ac659d3229
+      internalID: -230003943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DGUARDIAN_TODASLASLETRAS_7
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 1650
+        width: 1767
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9c3da1f76b2f49bfbda7e4ca1b667
+      internalID: -561296605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DGUARDIAN_TODASLASLETRAS_19
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 0
+        width: 3259
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6a513b35c6de4e9c651ab9ea2dbe1
+      internalID: -1059096249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a281038859bf7f41b31ee055c81e337
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3DGUARDIAN_TODASLASLETRAS_0: 1097575569
+      3DGUARDIAN_TODASLASLETRAS_1: 2046132763
+      3DGUARDIAN_TODASLASLETRAS_10: 2028918448
+      3DGUARDIAN_TODASLASLETRAS_11: 1253381493
+      3DGUARDIAN_TODASLASLETRAS_12: -1818249423
+      3DGUARDIAN_TODASLASLETRAS_13: -971172486
+      3DGUARDIAN_TODASLASLETRAS_14: -2100041808
+      3DGUARDIAN_TODASLASLETRAS_15: -1231958429
+      3DGUARDIAN_TODASLASLETRAS_16: -1139090487
+      3DGUARDIAN_TODASLASLETRAS_17: 1368342204
+      3DGUARDIAN_TODASLASLETRAS_18: 1302553604
+      3DGUARDIAN_TODASLASLETRAS_19: -1059096249
+      3DGUARDIAN_TODASLASLETRAS_2: 959872922
+      3DGUARDIAN_TODASLASLETRAS_20: -1782889773
+      3DGUARDIAN_TODASLASLETRAS_21: -1164562664
+      3DGUARDIAN_TODASLASLETRAS_22: -1633177192
+      3DGUARDIAN_TODASLASLETRAS_23: 874467977
+      3DGUARDIAN_TODASLASLETRAS_3: 491080173
+      3DGUARDIAN_TODASLASLETRAS_4: -230003943
+      3DGUARDIAN_TODASLASLETRAS_5: -8045526
+      3DGUARDIAN_TODASLASLETRAS_6: -788534334
+      3DGUARDIAN_TODASLASLETRAS_7: -561296605
+      3DGUARDIAN_TODASLASLETRAS_8: 1340144398
+      3DGUARDIAN_TODASLASLETRAS_9: -1723201311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
